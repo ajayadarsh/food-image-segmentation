@@ -3,6 +3,8 @@ title: "Multi-Class Food Image Segmentation using CNNs and Transformers"
 author: "Ajay Adarsh Sivakumar"
 date: "17/02/2026"
 
+---
+
 # Objective
 
 Semantic segmentation project implemented using PyTorch on the FoodSeg103 dataset.  
