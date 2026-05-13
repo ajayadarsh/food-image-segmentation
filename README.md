@@ -1,7 +1,4 @@
----
-title: "Multi-Class Food Image Segmentation using CNNs and Transformers"
-author: "Ajay Adarsh Sivakumar"
-date: "17/02/2026"
+# "Multi-Class Food Image Segmentation using CNNs and Transformers"
 
 ---
 
