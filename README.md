@@ -37,9 +37,16 @@ and evaluates their performance using **Mean Intersection over Union (mIoU)**.
 
 ## Demo
 
-![DeepLabV3(ResNet50)](results/DeeplabV3(ResNet50).png)
-![DeepLabV3+(ResNet101)](results/DeeplabV3plus(ResNet101).png)
+### DeepLabV3(ResNet50)
+![DeepLabV3(ResNet50)](results/DeepLabV3(ResNet50).png)
+
+### DeepLabV3+(ResNet101)
+![DeepLabV3+(ResNet101)](results/DeepLabV3plus(ResNet101).png)
+
+### SegFormer
 ![SegFormer](results/SegFormer.png)
+
+### Models Comparison
 ![Model Comparison](results/Models_comparison.png)
 
 ---
