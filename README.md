@@ -328,5 +328,5 @@ Potential future enhancements include:
 
 **AJ**
 
-MSc Computer Science / Artificial Intelligence  
-Semantic Segmentation using CNNs and Vision Transformers
+MSc Artificial Intelligence & Data Science Student
+Deep Learning · Computer Vision · Machine Learning
