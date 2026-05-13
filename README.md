@@ -37,10 +37,10 @@ and evaluates their performance using **Mean Intersection over Union (mIoU)**.
 
 ## Demo
 
-![DeepLabV3 with ResNet50](results/DeeplabV3(ResNet50).png)
-![DeepLabV3+ with ResNet101](results/DeeplabV3+(ResNet101).png)
+![DeepLabV3(ResNet50)](results/DeeplabV3(ResNet50).png)
+![DeepLabV3+(ResNet101)](results/DeeplabV3plus(ResNet101).png)
 ![SegFormer](results/SegFormer.png)
-![Model Comparison](results/Model_comparison.png)
+![Model Comparison](results/Models_comparison.png)
 
 ---
 
