@@ -1,4 +1,4 @@
-# "Multi-Class Food Image Segmentation using CNNs and Transformers"
+# Multi-Class Food Image Segmentation using CNNs and Transformers
 
 ---
 
